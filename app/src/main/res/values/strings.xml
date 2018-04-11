@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Invevtory</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+    <string name="insert_dummy_data">insert_dummy_data</string>
+    <string name="delete_all_entries">delete_all_entries</string>
+    <string name="product_name">Product name</string>
+    <string name="type_product_name_here">type product name here</string>
+    <string name="price">Price</string>
+    <string name="supplier_number">supplier number</string>
+    <string name="supplier_number_here">supplier number here</string>
+    <string name="quantity">quantity</string>
+    <string name="supplier_name">supplier name</string>
+    <string name="supplier_name_here">supplier name here</string>
+</resources>
